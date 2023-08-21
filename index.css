@@ -19,3 +19,11 @@
       float: right;
       padding: 20px;
     }
+
+    footer {
+      width: 850px;
+      background-color: black;
+      color: white;
+      padding: 20px;
+      margin: auto;
+    }
